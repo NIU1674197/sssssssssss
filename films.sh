@@ -12,12 +12,13 @@ function Menu(){
 	echo "3. Ets realment un Expert en pel·lícules?"
 	echo "4. Altes, baixes i modificacions de la base de dades."
 	echo "0. Sortir."
+	echo "Hola"
 
 }
 
 
 function enDesenvolupament(){
-	echo "En desenvolupament"
+	echo "En desenvolupament"                    
 }
 
 function OpcioNoValida(){
